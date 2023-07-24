@@ -1,0 +1,14 @@
+.app{
+  display: flex;
+  flex-direction: row;
+}
+
+.draggableItem{
+  flex: 0.5;
+}
+
+.draggableArea{
+  flex: 0.5;
+  height: 300px;
+  width: 200px;
+}
